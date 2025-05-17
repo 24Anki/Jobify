@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ bf0bfec (first)
 <div align="center">
   <h1 align="center">Job Portal</h1>
 </div>
@@ -130,7 +130,10 @@ If you'd like to contribute, please fork the repository and make changes as you'
 <a href="https://github.com/drbarzaga/job-portal/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=drbarzaga/job-portal" />
 </a>
+<<<<<<< HEAD
 =======
 # Jobify
 a job application portal
 >>>>>>> 94840e33803469a9bf806367bc30118e4e2d9a7c
+=======
+>>>>>>> bf0bfec (first)
